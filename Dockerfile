@@ -31,7 +31,6 @@ COPY ./plantuml.sh /usr/bin/plantuml
 RUN apt-get update \
  && apt-get install --no-install-recommends -y \
     ca-certificates \
-    fontconfig \
     graphviz \
     openjdk-17-jre \
     openssl
