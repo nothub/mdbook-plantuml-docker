@@ -1,0 +1,9 @@
+*
+!*/
+
+!/*.md
+!/.github/**
+!/.gitignore
+!/Dockerfile
+!/Makefile
+!/plantuml.sh
